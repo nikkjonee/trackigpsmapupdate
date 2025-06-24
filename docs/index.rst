@@ -7,7 +7,7 @@ How to Update Tracki GPS Map?: Everything You Need to Know
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: https://trackigpsupdate.readthedocs.io/en/latest/_images/update.png
+.. image:: update.png
    :alt: My Project Logo
    :width: 500px
    :align: center
